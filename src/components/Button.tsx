@@ -1,7 +1,7 @@
 interface ButtonProps {
     caption: string
     icon?: any
-    className?: string 
+    className?: string
 }
 
 export default function Button(props: ButtonProps) {
