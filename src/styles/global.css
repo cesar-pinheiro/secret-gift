@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+body {
+    @apply text-zinc-100 text-[#E6E5A3];
+}
